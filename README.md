@@ -1,5 +1,5 @@
 # Wan2.1-windows-GUI
-不用搭建环境，解压即用，4G显存可用
+完全免费，不用搭建环境，解压即用，4G显存可用
 
 # 软件基于开源的项目
 https://github.com/Wan-Video/Wan2.1
